@@ -1,0 +1,2 @@
+# xcode_plugin
+Xcode6插件快速跳转到沙盒ZLGotoSandboxPlugin、Xcode查找不必要的文件-ZLCheckFilePlugin
